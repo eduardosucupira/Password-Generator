@@ -1,5 +1,5 @@
 # [Password Generator](https://eduardosucupira.github.io/Password-Generator/).
- <img src="Capturar.gif" width="100%" alt="screen-shot"/>
+  <img src="Capturar.gif" width="100%" alt="screen-shot"/>
 
 ## Project setup
 ```
